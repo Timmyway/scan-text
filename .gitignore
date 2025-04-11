@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / pickled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib64/
+lib/
+sdist/
+var/
+wheels/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+.installed.cfg
+*.whl
+MANIFEST.in
+
+# PyInstaller related
+build
+dist
+
+# Jupyter Notebook related
+.ipynb_checkpoints
+
+# Virtual environment related
+venv/
+.venv/
+env/
+.env/
+
+# MyPy cache
+.mypy_cache/
+
+# Other common folders
+tmp/
+temp/
+
+# OS Specific - adjust as needed
+.DS_Store
+Thumbs.db
+
+# User-specific files
+.idea/
+.vscode/
+*.user
+*.log
+*.ini
+*.db
+*.sqlite
+
+# User generated folders and files
+images/
+ocr_output/
